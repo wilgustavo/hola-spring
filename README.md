@@ -13,3 +13,9 @@ mvn spring-boot:run
 ```
 
 3) Ingresar al sitio <http://localhost:8080/hola> en el navegador
+
+Para ejecutar los test:
+
+```
+mvn test
+```
